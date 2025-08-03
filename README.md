@@ -1,5 +1,5 @@
 # 💫 About Me:
-📒Im currently studying an engineering in videogame development<br>💻I like Front-End development and i would like to specialize in Full-Stack development<br>💡I'm always learning new technologies
+📒Im engineering in videogame development<br>💻I like Front-End development and experiences 3D using threejs<br>💡I'm always learning new technologies
 
 
 ## 🌐 Socials:
